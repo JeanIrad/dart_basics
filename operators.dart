@@ -11,9 +11,4 @@ main() {
   // // ternary operatiors
   // String lastName = name == 'Jean' ? 'IRADUKUNDA' : 'Kamana';
   // print(lastName);
-  // calculator
-  stdout.write('write the value of x');
-  var x = stdin.readLineSync();
-  int val = int.parse(x);
-  print(val);
 }
